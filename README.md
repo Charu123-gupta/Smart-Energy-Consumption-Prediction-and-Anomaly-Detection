@@ -10,3 +10,6 @@ This project predicts electricity consumption using Random Forest and detects an
 - Matplotlib
 - Seaborn
 - Streamlit
+
+- ## 🚀 Live Demo
+https://smart-energy-consumption-prediction-and-anomaly-detection-6gjv.streamlit.app/
